@@ -1,5 +1,5 @@
 # IntrinsicNeRF: Learning Intrinsic Neural Radiance Fields for Editable Novel View Synthesis
-### [Project Page](https://zju3dv.github.io/intrinsic_nerf/) | [Paper](https://zju3dv.github.io/intrinsic_nerf/)
+### [Project Page](https://zju3dv.github.io/intrinsic_nerf/) | [Paper](https://arxiv.org/abs/2210.00647)
 <br/>
 
 > IntrinsicNeRF: Learning Intrinsic Neural Radiance Fields for Editable Novel View Synthesis
