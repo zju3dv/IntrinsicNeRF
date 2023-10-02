@@ -65,6 +65,7 @@ cd Video_Data
 python gui.py --img_dir in/replica/room_0/step_200000/ --cluster_config in/replica/room_0/cluster/ --rate 20 --head_name room_0 --replica
 ```
 The editing software is as follows:
+
 ![edit_software](assets/software.png)
 
 
